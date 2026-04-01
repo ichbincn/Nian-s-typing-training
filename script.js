@@ -6,10 +6,12 @@ const STORAGE_KEYS = {
 };
 
 const ENCOURAGEMENTS = [
-  "很棒，继续保持这个节奏！",
-  "速度和准确率都不错，再练一篇吧。",
-  "今天也在稳稳进步。",
-  "小陈认证：这篇打得真不错。",
+  "小陈认证：这篇打得真的很好。",
+  "比昨天更厉害一点点了。",
+  "慢慢来，我会一直看着你进步。",
+  "今天也是认真的乖宝。",
+  "这一篇的节奏很漂亮，继续稳稳练下去。",
+  "小年今天也有在认真发光。",
 ];
 
 const state = {
@@ -383,6 +385,7 @@ function setCurrentTextByIndex(index) {
   state.currentIndex = index;
   state.currentText = state.filteredTexts[index] || null;
   resetPractice(false);
+  triggerContentTransition();
   renderCurrentText();
   renderReferenceText();
   refreshControls();
@@ -413,6 +416,27 @@ function renderCurrentText() {
   elements.metaTopic.textContent = state.currentText.topic || "-";
   elements.metaWordCount.textContent = String(state.currentText.wordCount || countWords(state.currentText.content));
   elements.metaDifficulty.textContent = state.currentText.difficulty || "-";
+}
+
+function triggerContentTransition() {
+  const targets = [
+    elements.textTitle,
+    elements.textPrompt,
+    elements.referenceText,
+    elements.typingInput,
+  ];
+
+  targets.forEach((element) => {
+    element.classList.remove("content-transition");
+    void element.offsetWidth;
+    element.classList.add("content-transition");
+  });
+
+  window.setTimeout(() => {
+    targets.forEach((element) => {
+      element.classList.remove("content-transition");
+    });
+  }, 280);
 }
 
 function renderReferenceText() {
