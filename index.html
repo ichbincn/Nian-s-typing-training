@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>年雯玥的爱心打字练习</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body data-theme="light">
+    <div class="page-shell">
+      <header class="hero card">
+        <div>
+          <p class="hero-kicker">IELTS Computer Typing Practice</p>
+          <h1>年雯玥的爱心打字练习</h1>
+          <p class="subtitle">written by小陈</p>
+        </div>
+        <div class="hero-badge" aria-hidden="true">
+          <span class="heart"></span>
+          <span>稳稳进步中</span>
+        </div>
+      </header>
+
+      <section class="toolbar card">
+        <div class="toolbar-group">
+          <label class="control">
+            <span>题型筛选</span>
+            <select id="typeFilter" data-requires-data="true">
+              <option value="all">全部</option>
+              <option value="task1">Task 1</option>
+              <option value="task2">Task 2</option>
+            </select>
+          </label>
+
+          <label class="control">
+            <span>主题筛选</span>
+            <select id="topicFilter" data-requires-data="true">
+              <option value="all">全部</option>
+              <option value="Education">Education</option>
+              <option value="Technology">Technology</option>
+              <option value="Society">Society</option>
+              <option value="Environment">Environment</option>
+              <option value="Bar chart">Bar chart</option>
+              <option value="Line graph">Line graph</option>
+              <option value="Pie chart">Pie chart</option>
+              <option value="Table">Table</option>
+              <option value="Mixed chart">Mixed chart</option>
+            </select>
+          </label>
+
+          <button id="task2Shortcut" class="ghost-button" data-requires-data="true">
+            只练 Task 2
+          </button>
+        </div>
+
+        <div class="toolbar-group">
+          <button id="prevButton" class="secondary-button" data-requires-content="true">
+            上一篇
+          </button>
+          <button id="nextButton" class="secondary-button" data-requires-content="true">
+            下一篇
+          </button>
+          <button id="randomButton" class="secondary-button" data-requires-content="true">
+            随机一篇
+          </button>
+        </div>
+
+        <div class="toolbar-group">
+          <button id="startButton" class="primary-button" data-requires-content="true">
+            开始练习
+          </button>
+          <button id="pauseButton" class="secondary-button" data-requires-content="true">
+            暂停
+          </button>
+          <button id="resumeButton" class="secondary-button" data-requires-content="true">
+            继续
+          </button>
+          <button id="resetButton" class="ghost-button" data-requires-content="true">
+            重置
+          </button>
+        </div>
+      </section>
+
+      <section class="settings-grid">
+        <article class="card info-card">
+          <div class="section-title-row">
+            <h2>题目信息</h2>
+            <span id="practiceStatus" class="status-pill">未开始</span>
+          </div>
+          <div class="meta-grid">
+            <div class="meta-item">
+              <span>题型</span>
+              <strong id="metaType">-</strong>
+            </div>
+            <div class="meta-item">
+              <span>主题</span>
+              <strong id="metaTopic">-</strong>
+            </div>
+            <div class="meta-item">
+              <span>字数</span>
+              <strong id="metaWordCount">0</strong>
+            </div>
+            <div class="meta-item">
+              <span>难度</span>
+              <strong id="metaDifficulty">-</strong>
+            </div>
+          </div>
+          <h3 id="textTitle" class="text-title">正在加载题目...</h3>
+          <p id="textPrompt" class="text-prompt">请稍候，正在读取本地题库。</p>
+          <p id="emptyState" class="empty-state" hidden>当前筛选条件下没有题目，请调整筛选器。</p>
+        </article>
+
+        <article class="card settings-card">
+          <div class="section-title-row">
+            <h2>练习设置</h2>
+            <button id="examModeButton" class="ghost-button" data-requires-content="true">
+              考试模式
+            </button>
+          </div>
+          <div class="toggle-list">
+            <label class="toggle-item">
+              <input id="hintToggle" type="checkbox" checked />
+              <span>显示中文提示</span>
+            </label>
+            <label class="toggle-item">
+              <input id="compareToggle" type="checkbox" checked />
+              <span>显示实时高亮对比</span>
+            </label>
+            <label class="toggle-item">
+              <input id="focusToggle" type="checkbox" checked />
+              <span>自动聚焦输入框</span>
+            </label>
+          </div>
+          <div class="settings-actions">
+            <label class="control font-control">
+              <span>字体大小</span>
+              <input id="fontSizeRange" type="range" min="16" max="28" step="1" value="19" />
+              <strong id="fontSizeValue">19px</strong>
+            </label>
+            <button id="themeButton" class="secondary-button">切换深色模式</button>
+          </div>
+        </article>
+      </section>
+
+      <section id="hintPanel" class="card hint-card">
+        <h2>练习提示</h2>
+        <p>
+          这里按字符逐位比对，空格、标点和大小写都会参与判定。若漏打一位，后面的字符会继续逐位比较，所以更贴近真实机考录入体验。
+        </p>
+      </section>
+
+      <main class="main-grid">
+        <section class="card reference-card">
+          <div class="section-title-row">
+            <h2>范文展示区</h2>
+            <span id="loadMessage" class="helper-text">题库加载中...</span>
+          </div>
+          <div id="referenceText" class="reference-text" aria-live="polite"></div>
+          <div id="overflowNotice" class="overflow-notice" hidden></div>
+        </section>
+
+        <section class="card typing-card">
+          <div class="section-title-row">
+            <h2>输入区</h2>
+            <span class="helper-text">点击开始，或直接输入首字符也会自动开始计时</span>
+          </div>
+          <textarea
+            id="typingInput"
+            class="typing-input"
+            placeholder="在这里开始跟打英文范文..."
+            spellcheck="false"
+            autocomplete="off"
+            autocapitalize="off"
+            data-requires-content="true"
+          ></textarea>
+        </section>
+      </main>
+
+      <section class="dashboard-grid">
+        <article class="card stats-card">
+          <div class="section-title-row">
+            <h2>实时统计</h2>
+            <span class="helper-text">输入为空时，统计自动归零</span>
+          </div>
+          <div class="stats-grid">
+            <div class="stat-item">
+              <span>已用时间</span>
+              <strong id="elapsedTime">00:00</strong>
+            </div>
+            <div class="stat-item">
+              <span>WPM</span>
+              <strong id="wpmValue">0.0</strong>
+            </div>
+            <div class="stat-item">
+              <span>CPM</span>
+              <strong id="cpmValue">0.0</strong>
+            </div>
+            <div class="stat-item">
+              <span>总输入字符</span>
+              <strong id="totalCharsValue">0</strong>
+            </div>
+            <div class="stat-item">
+              <span>正确字符</span>
+              <strong id="correctCharsValue">0</strong>
+            </div>
+            <div class="stat-item">
+              <span>错误字符</span>
+              <strong id="errorCharsValue">0</strong>
+            </div>
+            <div class="stat-item">
+              <span>准确率</span>
+              <strong id="accuracyValue">0.0%</strong>
+            </div>
+            <div class="stat-item">
+              <span>错误率</span>
+              <strong id="errorRateValue">0.0%</strong>
+            </div>
+          </div>
+        </article>
+
+        <article class="card recent-card">
+          <div class="section-title-row">
+            <h2>最近成绩</h2>
+            <button id="historyButton" class="secondary-button">历史成绩</button>
+          </div>
+          <div id="recentResult" class="recent-result empty-result">
+            还没有完成记录，开始第一篇练习吧。
+          </div>
+        </article>
+      </section>
+    </div>
+
+    <div id="resultModal" class="modal" hidden>
+      <div class="modal-card">
+        <div class="section-title-row">
+          <h2>练习完成</h2>
+          <button id="closeModalButton" class="ghost-button">关闭</button>
+        </div>
+        <p id="resultEncouragement" class="result-encouragement"></p>
+        <div class="result-grid">
+          <div class="result-item">
+            <span>总耗时</span>
+            <strong id="resultTime">00:00</strong>
+          </div>
+          <div class="result-item">
+            <span>WPM</span>
+            <strong id="resultWpm">0.0</strong>
+          </div>
+          <div class="result-item">
+            <span>CPM</span>
+            <strong id="resultCpm">0.0</strong>
+          </div>
+          <div class="result-item">
+            <span>总字符数</span>
+            <strong id="resultTotal">0</strong>
+          </div>
+          <div class="result-item">
+            <span>正确字符数</span>
+            <strong id="resultCorrect">0</strong>
+          </div>
+          <div class="result-item">
+            <span>错误字符数</span>
+            <strong id="resultError">0</strong>
+          </div>
+          <div class="result-item">
+            <span>准确率</span>
+            <strong id="resultAccuracy">0.0%</strong>
+          </div>
+          <div class="result-item">
+            <span>错误率</span>
+            <strong id="resultErrorRate">0.0%</strong>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="historyModal" class="modal" hidden>
+      <div class="modal-card history-modal-card">
+        <div class="section-title-row">
+          <h2>历史成绩</h2>
+          <button id="closeHistoryModalButton" class="ghost-button">关闭</button>
+        </div>
+        <div id="historySummary" class="history-summary-grid"></div>
+        <div class="history-panel">
+          <h3>WPM 变化趋势</h3>
+          <p class="helper-text">浅色区间表示雅思机试理想速度 40-60 WPM。</p>
+          <div class="chart-scroll">
+            <div id="historyChart" class="history-chart-empty">还没有历史数据。</div>
+          </div>
+        </div>
+        <div class="history-panel">
+          <h3>速度分析</h3>
+          <p id="historyInsight" class="history-insight">完成一次练习后，这里会显示速度距离和鼓励语。</p>
+        </div>
+        <div class="history-panel">
+          <h3>最近记录</h3>
+          <div id="historyList" class="history-list empty-result">还没有历史记录。</div>
+        </div>
+      </div>
+    </div>
+
+    <script src="sample-texts-fallback.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
