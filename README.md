@@ -4,7 +4,7 @@
 
 ## 如何运行
 
-1. 直接双击打开 `/Users/chennuo/Documents/ielts-love-typing-practice/index.html`。
+1. 直接双击打开 `index.html`。
 2. 如果浏览器因为本地安全策略无法读取 `sample-texts.json`，请在项目目录启动一个本地静态服务器后再访问。
 3. 例如可以在该目录执行：
 
@@ -16,7 +16,7 @@ python3 -m http.server 8000
 
 ## 如何替换 JSON 题库
 
-1. 打开 `/Users/chennuo/Documents/ielts-love-typing-practice/sample-texts.json`。
+1. 打开 `sample-texts.json`。
 2. 按现有数组结构替换或新增题目对象。
 3. 每篇文章至少保留以下字段：
 
