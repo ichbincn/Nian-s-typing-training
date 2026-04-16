@@ -105,7 +105,7 @@
     "title": "Online Learning and the Future of Universities",
     "topic": "Education",
     "prompt": "Some people think online courses can replace university education, while others believe campus study is still necessary. Discuss both views and give your own opinion.",
-    "content": "With the rapid growth of digital platforms, many people now question whether universities are still necessary. Some believe that online courses can fully replace traditional higher education, while others argue that studying on campus remains important. This essay will discuss both positions before explaining why I believe universities still offer value that online learning cannot completely copy. Those who support online education highlight its flexibility and lower cost. Students can study from home, choose their own schedule and often pay far less than they would for a full university programme. This is especially helpful for people who already work, live far from major cities or cannot afford accommodation near a campus. Online platforms also offer access to courses from well-known teachers around the world, which was far less common in the past. However, university education is more than academic content. Campus study provides direct contact with lecturers, structured learning and immediate support when students face difficulties. It also creates opportunities for teamwork, discussion and social development. Many young adults gain independence, confidence and professional networks during their university years. These aspects are harder to achieve through a screen alone. Furthermore, some subjects, such as engineering or medicine, require practical training in labs, workshops or clinical settings. In my opinion, online learning is an excellent addition to education, but it should not be seen as a complete replacement for university. It works particularly well for short courses or professional development, yet full-time campus study still offers a wider experience. In conclusion, online courses bring clear benefits in terms of access and convenience, but universities remain necessary because they provide academic guidance, practical training and personal development that online learning cannot fully reproduce.",
+    "content": "With the rapid growth of digital platforms, many people now question whether universities are still necessary. Some believe that online courses can fully replace traditional higher education, while others argue that studying on campus remains important. This essay will discuss both positions before explaining why I believe universities still offer value that online learning cannot completely copy. Those who support online education highlight its flexibility and lower cost. Students can study from home, choose their own schedule and often pay far less than they would for a full university program. This is especially helpful for people who already work, live far from major cities or cannot afford accommodation near a campus. Online platforms also offer access to courses from well-known teachers around the world, which was far less common in the past. However, university education is more than academic content. Campus study provides direct contact with lecturers, structured learning and immediate support when students face difficulties. It also creates opportunities for teamwork, discussion and social development. Many young adults gain independence, confidence and professional networks during their university years. These aspects are harder to achieve through a screen alone. Furthermore, some subjects, such as engineering or medicine, require practical training in labs, workshops or clinical settings. In my opinion, online learning is an excellent addition to education, but it should not be seen as a complete replacement for university. It works particularly well for short courses or professional development, yet full-time campus study still offers a wider experience. In conclusion, online courses bring clear benefits in terms of access and convenience, but universities remain necessary because they provide academic guidance, practical training and personal development that online learning cannot fully reproduce.",
     "wordCount": 281,
     "difficulty": "6.5"
   },
@@ -115,8 +115,522 @@
     "title": "Should Social Media Be Limited for Young People?",
     "topic": "Technology",
     "prompt": "Some people believe that social media should be strictly limited for children and teenagers. To what extent do you agree or disagree?",
-    "content": "The growing influence of social media on young people has become a major concern in many countries. Some people think children and teenagers should face strict limits on how they use these platforms. I largely agree, because social media can harm mental health, reduce concentration and expose young users to unnecessary risks, although moderate use can still offer some benefits. One reason for stronger limits is the effect on mental well-being. Teenagers often compare themselves with carefully edited online images and may feel pressure to look or live in a certain way. This can lead to anxiety, low self-esteem and an unhealthy need for approval. In addition, the endless flow of short videos and notifications can reduce concentration. Young people may find it harder to focus on homework, reading or even ordinary conversations when they become used to constant digital stimulation. Another concern is online safety. Children and teenagers may not always recognise false information, harmful content or manipulative behaviour. Without clear limits and guidance, they can easily spend too much time online or become involved in situations they are not mature enough to handle. On the other hand, I do not believe social media should be completely banned. It can help young people stay in contact with friends, learn new skills and discover useful information. The better solution is careful control rather than total removal. Parents, schools and platform providers should work together to set time limits, improve digital education and make online spaces safer. In conclusion, social media should be more strictly limited for children and teenagers because the risks are serious and widespread. However, balanced use with proper supervision is preferable to a complete ban.",
+    "content": "The growing influence of social media on young people has become a major concern in many countries. Some people think children and teenagers should face strict limits on how they use these platforms. I largely agree, because social media can harm mental health, reduce concentration and expose young users to unnecessary risks, although moderate use can still offer some benefits. One reason for stronger limits is the effect on mental well-being. Teenagers often compare themselves with carefully edited online images and may feel pressure to look or live in a certain way. This can lead to anxiety, low self-esteem and an unhealthy need for approval. In addition, the endless flow of short videos and notifications can reduce concentration. Young people may find it harder to focus on homework, reading or even ordinary conversations when they become used to constant digital stimulation. Another concern is online safety. Children and teenagers may not always recognise false information, harmful content or manipulative behavior. Without clear limits and guidance, they can easily spend too much time online or become involved in situations they are not mature enough to handle. On the other hand, I do not believe social media should be completely banned. It can help young people stay in contact with friends, learn new skills and discover useful information. The better solution is careful control rather than total removal. Parents, schools and platform providers should work together to set time limits, improve digital education and make online spaces safer. In conclusion, social media should be more strictly limited for children and teenagers because the risks are serious and widespread. However, balanced use with proper supervision is preferable to a complete ban.",
     "wordCount": 278,
     "difficulty": "6.5"
+  }
+{
+    "id": "k1-007,
+    "type": "task1",
+    "title": "Energy Consumption Comparison",
+    "topic": "Bar chart",
+    "prompt": "The bar chart below shows the average daily energy consumption per person in four countries in 2020. Summarize the information by selecting and reporting the main features.",
+    "content": "The bar chart illustrates energy usage patterns across Canada, USA, Japan, and Germany during 2020. Overall, North American countries consumed significantly more energy per capita than their Asian and European counterparts. Canada recorded the highest daily consumption at 350 kilowatt-hours, followed closely by the USA with 320 kilowatt-hours. In contrast, Japan and Germany showed much lower figures at 150 and 180 kilowatt-hours respectively. A notable difference exists between the two American nations and the other two countries, with the former using nearly double the energy. While all countries relied primarily on fossil fuels, Germany demonstrated the highest proportion of renewable energy sources at 25%, compared to 15% in the USA and negligible amounts in Canada and Japan. These patterns likely reflect differences in climate conditions, industrial structures, and energy policies among the nations.",
+    "wordCount": 178,
+    "difficulty": "IELTS 6.5"
+  },
+  {
+    "id": task1-008,
+    "type": "task1",
+    "title": "Tourism Growth Trends",
+    "topic": "Line graph",
+    "prompt": "The line graph shows visitor numbers to three major tourist cities between 2015 and 2025. Describe the trends shown.",
+    "content": "The line graph presents tourism statistics for Paris, Bangkok, and Dubai over a ten-year period from 2015 to 2025. Initially, Paris maintained the highest visitor count at 18 million in 2015, followed by Bangkok with 16 million and Dubai with 12 million. Over the next five years, Bangkok experienced steady growth, surpassing Paris in 2018 to reach 22 million visitors. Dubai showed the most dramatic increase, climbing to 20 million by 2020. From 2020 onward, all three cities saw temporary declines due to global events, with Dubai recovering most quickly. By the projection year of 2025, Bangkok is expected to lead with 28 million visitors, while Paris and Dubai are forecasted to reach 24 million and 26 million respectively. The data indicates Bangkok's growing popularity as a tourist destination, while Dubai demonstrates the strongest recovery and growth potential among the three cities.",
+    "wordCount": 182,
+    "difficulty": "IELTS 6.5"
+  },
+  {
+    "id": "task2-007",
+    "type": "task2",
+    "title": "Early Education Debate",
+    "topic": "Education",
+    "prompt": "Some people think children should begin formal education at a very early age. Discuss both views and give your opinion.",
+    "content": "The appropriate starting age for formal schooling has long been debated among educators and parents. While some argue that early academic instruction provides children with a strong foundation, others believe that excessive structure at young ages may hinder natural development. This essay will examine both perspectives before presenting a balanced view. Supporters of early formal education often cite research showing cognitive benefits when children are introduced to basic concepts like numbers and letters before age five. They argue that structured learning environments help develop concentration skills and prepare children for future academic challenges. Countries with early education systems, such as Finland, demonstrate strong educational outcomes, which some attribute to their early childhood programs. However, opponents emphasize the importance of play-based learning during early childhood. They contend that young children learn best through exploration and social interaction rather than formal instruction. Excessive academic pressure might lead to stress and reduce children's natural curiosity. Many early childhood specialists recommend delaying formal education until age six or seven to allow for proper emotional and social development. In my view, a balanced approach works best. While structured activities can be beneficial, they should be play-oriented and age-appropriate. The focus should remain on developing social skills and creativity rather than academic achievement. Schools could incorporate more interactive learning methods that blend play with basic concepts, creating a positive foundation for future education without overwhelming young learners.",
+    "wordCount": 287,
+    "difficulty": "IELTS 6.5"
+  },
+  {
+    "id": "task2-008",
+    "type": "task2",
+    "title": "Technology and Social Interaction",
+    "topic": "Technology",
+    "prompt": "Some believe technology has made people less sociable. To what extent do you agree?",
+    "content": "The impact of technology on social behavior has become a significant concern in modern society. While digital communication tools have undoubtedly transformed how we interact, the claim that technology makes people less sociable requires careful examination. This essay argues that technology's effect on sociability is complex and depends largely on how it is used. On one hand, there is evidence suggesting reduced face-to-face interaction among frequent technology users. Many people, especially younger generations, spend considerable time on social media platforms instead of meeting in person. This can lead to weaker interpersonal skills and difficulty maintaining deep relationships. Public spaces often show individuals absorbed in their devices rather than engaging with those around them, supporting the argument that technology encourages social isolation. On the other hand, technology has created new opportunities for connection that would otherwise be impossible. Video calls allow families separated by distance to maintain close relationships, and online communities provide support for people with specific interests or challenges. During global events that restricted physical meetings, digital platforms became essential for maintaining social bonds. Furthermore, many technologies facilitate organization of real-world social activities, from group chats planning meetups to event management apps. In conclusion, technology itself is neutral - its impact on sociability depends on user behavior. While excessive screen time can reduce in-person interaction, used mindfully, technology enhances rather than diminishes our social capabilities. The key lies in finding balance and being conscious of how we integrate digital tools into our social lives, ensuring they complement rather than replace genuine human connection.",
+    "wordCount": 293,
+    "difficulty": "IELTS 6.5"
+  }
+{
+    "id": task1-009,
+    "type": "task1",
+    "title": "Energy Consumption Comparison",
+    "topic": "Bar chart",
+    "prompt": "The bar chart below shows the average daily energy consumption per person in four countries in 2025. Summarize the information by selecting and reporting the main features.",
+    "content": "The bar chart illustrates the average daily energy consumption per person across four countries (USA, China, Germany, and Brazil) in 2025. Overall, the USA had the highest energy usage while Brazil consumed the least. In detail, American residents used approximately 250 kilowatt-hours per day, which was nearly double China's consumption of 130 kWh. Germany ranked third with 95 kWh daily usage, showing moderate energy demand. Brazil recorded the lowest figure at just 60 kWh per person. When comparing the data, the USA's consumption exceeded Brazil's by over four times. All countries showed consistent patterns throughout the year with no significant monthly variations. These differences likely reflect varying economic development levels and energy policies among the nations.",
+    "wordCount": 172,
+    "difficulty": "IELTS 6.5"
+  },
+  {
+    "id": task1-010,
+    "type": "task1",
+    "title": "Internet Usage Growth",
+    "topic": "Line graph",
+    "prompt": "The line graph shows internet usage percentages in a developing country from 2005 to 2025. Highlight key trends and make comparisons.",
+    "content": "The line graph demonstrates internet adoption rates in a developing nation over a 20-year period. Initially at 5% in 2005, usage grew slowly until 2010 when it reached 15%. A sharper increase occurred between 2010 and 2020, climbing to 65%. The most dramatic growth happened after 2020, reaching 85% by 2025. Mobile internet access accounted for 70% of total usage by the final year. Notably, rural areas consistently lagged behind urban centers by about 20 percentage points throughout the period. The data shows a clear upward trajectory with particularly rapid expansion in the last five years, likely driven by improved infrastructure and affordable smartphones.",
+    "wordCount": 168,
+    "difficulty": "IELTS 6.5"
+  },
+  {
+    "id": "task2-009",
+    "type": "task2",
+    "title": "Early Education Debate",
+    "topic": "Education",
+    "prompt": "Some people think children should begin formal education at a very early age. Discuss both views and give your opinion.",
+    "content": "There is ongoing debate about whether formal schooling should start at an early age. Supporters argue that young children learn languages and basic skills more easily. Starting school at age three or four helps them develop social skills through interaction with peers. Early education programs often include structured play that stimulates cognitive development. However, opponents believe excessive academic pressure harms childhood development. They suggest unstructured playtime allows natural creativity to flourish. Many psychologists warn that pushing academic work too early may cause stress and reduce motivation later. In my view, a balanced approach works best. Children should have access to quality preschool programs focusing on socialization and basic concepts, but without heavy academic demands. Play-based learning during morning hours followed by short educational activities seems ideal. This prepares children for primary school while preserving their natural curiosity. Countries like Finland demonstrate successful models with later formal schooling starts but strong early childhood support.",
+    "wordCount": 287,
+    "difficulty": "IELTS 6.5"
+  },
+  {
+    "id": "task2-010",
+    "type": "task2",
+    "title": "Social Media Impact",
+    "topic": "Technology",
+    "prompt": "Social media has changed how people interact. Do the advantages outweigh the disadvantages?",
+    "content": "Social networking platforms have significantly transformed human communication patterns worldwide. While these services offer valuable connection opportunities, they also present serious challenges that require careful consideration. One major benefit is the ability to maintain relationships across distances. Families separated by migration can share daily moments through video calls and messages. Professional networks like LinkedIn help job seekers connect with employers globally. Educational content sharing has also become more accessible through platforms like YouTube. However, excessive social media use correlates with mental health issues among teenagers. Studies show increased anxiety and sleep problems related to constant online comparison. Privacy concerns remain significant as personal data gets collected and sometimes misused. Another drawback is the spread of misinformation, which can influence public opinion negatively. Despite these problems, I believe the advantages outweigh the disadvantages when used responsibly. The key is developing digital literacy from school age. Teaching critical evaluation of online content and setting usage limits can maximize benefits while minimizing harm. Governments should regulate data practices without restricting free expression. Ultimately, social media reflects human nature - it amplifies both our best and worst tendencies.",
+    "wordCount": 298,
+    "difficulty": "IELTS 6.5"
+  }
+{
+    "id": task1-011,
+    "type": "task1",
+    "title": "Urban Population Growth",
+    "topic": "Bar chart",
+    "prompt": "The bar chart below shows the population changes in two cities from 1990 to 2010. Summarize the information by selecting and reporting the main features.",
+    "content": "The bar chart illustrates population trends in City A and City B over a 20-year period. Overall, City A experienced steady growth while City B showed fluctuation. In 1990, City A had 3.2 million residents compared to City B's 2.8 million. By 2000, City A's population rose to 4.1 million, whereas City B decreased slightly to 2.6 million. The most significant change occurred between 2000 and 2010, when City A reached 5.0 million and City B recovered to 3.5 million. Throughout the period, City A consistently maintained higher population numbers. Both cities showed growth in the final decade, but City A's increase was more substantial at 0.9 million compared to City B's 0.9 million rise.",
+    "wordCount": 178,
+    "difficulty": "IELTS 6.5"
+  },
+  {
+    "id": task1-012,
+    "type": "task1",
+    "title": "Energy Consumption",
+    "topic": "Pie chart",
+    "prompt": "The pie charts compare energy sources used in two countries in 2020. Summarize the key information.",
+    "content": "The pie charts display energy consumption patterns in Country X and Country Y for 2020. Country X primarily relied on fossil fuels (65%), with coal at 30%, oil 25%, and natural gas 10%. Renewable sources accounted for 35%, including hydroelectric (15%) and wind/solar (20%). In contrast, Country Y used renewables for 70% of its energy, with hydroelectric at 40% and wind/solar at 30%. Fossil fuels made up only 30%, mostly natural gas (20%) and minimal coal (5%). Both countries showed different energy priorities, with Country X depending more on traditional sources while Country Y focused on sustainable options. The most notable difference was in hydroelectric usage, which was twice as high in Country Y.",
+    "wordCount": 185,
+    "difficulty": "IELTS 6.5"
+  },
+  {
+    "id": "task2-011",
+    "type": "task2",
+    "title": "Technology in Education",
+    "topic": "Technology",
+    "prompt": "Some believe technology improves learning, while others think it distracts students. Discuss both views and give your opinion.",
+    "content": "The role of technology in education has become increasingly debated. While some argue it enhances learning, others claim it creates distractions. This essay will examine both perspectives before presenting a balanced view. On one hand, digital tools provide valuable resources. Students can access global information instantly through online libraries and educational apps. Interactive platforms like virtual labs allow practical experiments without physical equipment. Video conferencing enables collaboration between international classrooms, broadening cultural understanding. These advantages make education more engaging and accessible. On the other hand, technology can reduce concentration. Social media notifications and game apps often interrupt study sessions. Some students misuse devices for entertainment rather than learning. Over-reliance on spellcheckers may weaken writing skills. However, these issues stem from improper usage rather than technology itself. In my opinion, the benefits outweigh the drawbacks when proper guidelines exist. Schools should teach digital responsibility while utilizing technology's strengths. For instance, designated 'focus hours' without internet access could balance connectivity and concentration. Ultimately, technology is a tool whose effectiveness depends on how we implement it in educational settings.",
+    "wordCount": 298,
+    "difficulty": "IELTS 6.5"
+  },
+  {
+    "id": "task2-012",
+    "type": "task2",
+    "title": "University Education Value",
+    "topic": "Education",
+    "prompt": "Some people think university education is necessary for success, while others believe work experience is more important. Discuss both views.",
+    "content": "The value of university education versus work experience remains a common discussion. While academic qualifications provide theoretical knowledge, practical experience offers real-world skills. This essay will explore both viewpoints. University graduates often have structured learning in their field. They develop critical thinking through research projects and gain specialized knowledge from professors. Degrees also serve as formal recognition that helps in job applications, especially in fields like medicine or engineering. Furthermore, campus activities build soft skills such as teamwork and time management. However, work experience provides immediate practical abilities. Starting careers early allows individuals to understand industry demands directly. Many successful entrepreneurs never completed university, learning through hands-on business challenges instead. Some professions prioritize portfolios over diplomas, like graphic design or software development. In my view, both approaches have merit depending on career goals. Technical fields often require academic foundations, while creative industries may value portfolios more. The ideal path combines theoretical understanding with practical application, such as internships during studies. Governments should support flexible education systems allowing work-study balance. Ultimately, success depends on continuous learning regardless of the initial path chosen.",
+    "wordCount": 312,
+    "difficulty": "IELTS 6.5"
+  }
+{
+    "id": task1-013,
+    "type": "task1",
+    "title": "Global Smartphone Sales Comparison",
+    "topic": "Bar chart",
+    "prompt": "The bar chart illustrates smartphone sales figures in millions for five regions during 2020-2022. Summarize the information by selecting and reporting the main features.",
+    "content": "The bar chart compares smartphone sales across five global regions over a three-year period. Overall, Asia-Pacific consistently recorded the highest sales while Africa showed the lowest figures throughout the period. In 2020, Asia-Pacific sold approximately 350 million units, significantly higher than North America's 180 million. European sales stood at 160 million that year. By 2021, all regions experienced growth except Africa which remained stable at 40 million. Asia-Pacific reached nearly 400 million units in 2021 before dropping slightly to 380 million in 2022. North America and Europe showed steady increases each year, ending at 210 million and 190 million respectively. Latin America maintained moderate growth from 100 million to 130 million units. The data indicates Asia-Pacific's dominant market position and consistent growth patterns in most regions despite minor fluctuations in the final year.",
+    "wordCount": 178,
+    "difficulty": "IELTS 6.5"
+  },
+  {
+    "id": task1-014,
+    "type": "task1",
+    "title": "Annual Temperature Changes",
+    "topic": "Line graph",
+    "prompt": "The line graph shows average annual temperature changes in four major cities from 2000 to 2020. Highlight key trends and make comparisons where relevant.",
+    "content": "The line graph presents temperature variations in New York, London, Tokyo, and Sydney over two decades. Generally, all cities demonstrated upward temperature trends with some fluctuations. New York started at 12°C in 2000, rising steadily to 14.5°C by 2020. London showed the most gradual increase from 10°C to 12°C. Tokyo experienced significant growth between 2010-2015, jumping from 15°C to 17.5°C before stabilizing. Sydney had the most consistent pattern, rising from 16°C to 18°C with minimal yearly variations. Notably, all cities recorded their highest temperatures in the final five years of the period. The data reveals a clear warming pattern across all locations, with Tokyo showing the most dramatic recent increase while Sydney maintained the most stable progression throughout the 20-year period.",
+    "wordCount": 168,
+    "difficulty": "IELTS 6.5"
+  },
+  {
+    "id": "task2-013",
+    "type": "task2",
+    "title": "Technology in Education",
+    "topic": "Technology",
+    "prompt": "Some people believe technology has improved education quality, while others think it creates distractions. Discuss both views and give your opinion.",
+    "content": "The role of technology in education has become increasingly debated in recent years. While some argue that digital tools enhance learning experiences, others claim they reduce students' concentration abilities. This essay will examine both perspectives before presenting a balanced view. On one hand, technology provides valuable educational resources. Online platforms offer interactive materials that cater to different learning styles, and video conferencing enables students from remote areas to access quality education. Digital tools also allow instant feedback on assignments, helping students identify areas for improvement. Furthermore, educational apps make learning more engaging through gamified elements that maintain students' interest. On the other hand, excessive screen time can negatively affect focus. Social media notifications and entertainment apps often distract students during study sessions. Some research suggests that handwriting notes improves memory retention compared to typing, indicating potential cognitive drawbacks of digital learning. Additionally, not all students have equal access to technology, potentially widening educational gaps between different socioeconomic groups. In conclusion, while technology offers significant educational benefits through accessibility and interactive learning, its implementation requires careful management to minimize distractions and ensure equitable access. Schools should establish clear guidelines for technology use that maximize advantages while addressing potential drawbacks through structured implementation plans.",
+    "wordCount": 287,
+    "difficulty": "IELTS 6.5"
+  },
+  {
+    "id": "task2-014",
+    "type": "task2",
+    "title": "Environmental Protection Responsibility",
+    "topic": "Environment",
+    "prompt": "Some people think environmental protection is the government's responsibility, while others believe individuals should take action. Discuss both sides and give your opinion.",
+    "content": "The question of who bears primary responsibility for environmental protection remains controversial. While many believe governments should lead sustainability efforts, others argue that individual actions collectively make the most significant impact. This essay will explore both viewpoints before reaching a conclusion. Governments certainly have crucial roles in environmental protection. They can implement nationwide policies such as carbon taxes and renewable energy incentives that create structural change. International agreements negotiated by governments address cross-border issues like ocean pollution and climate change that individuals cannot solve alone. Regulatory frameworks ensure industries follow environmental standards, preventing widespread ecological damage that would occur without oversight. However, individual actions also contribute significantly to environmental outcomes. Daily choices about transportation, energy consumption, and waste management directly affect carbon footprints. When millions of people adopt sustainable habits like recycling or reducing plastic use, the cumulative effect becomes substantial. Public pressure from environmentally conscious citizens also drives governments to implement stronger policies. In my view, both levels of action are necessary and complementary. Governments provide the essential framework and large-scale solutions, while individual participation ensures these policies succeed in practice. The most effective approach combines top-down regulation with bottom-up behavioral change, creating a comprehensive strategy where citizens and authorities work together toward common environmental goals.",
+    "wordCount": 293,
+    "difficulty": "IELTS 6.5"
+  }
+{
+    "id": task1-015,
+    "type": "task1",
+    "title": "Global Energy Consumption",
+    "topic": "Bar chart",
+    "prompt": "The bar chart below shows the percentage of energy consumption from different sources in three countries in 2020.",
+    "content": "The bar chart illustrates how three countries sourced their energy in 2020. Overall, fossil fuels dominated energy production across all nations, though renewable usage varied significantly. In Country A, coal accounted for 45% of energy, followed by natural gas at 30% and oil at 15%. Renewables made up only 10%. Country B showed a more balanced mix: oil (35%), natural gas (30%), coal (20%), and renewables (15%). Country C had the highest renewable usage at 25%, with oil (30%), natural gas (25%), and coal (20%). Notably, Country C used less coal than the others, while Country A relied most heavily on fossil fuels. The data indicates that developed nations may adopt greener energy sources more readily than developing ones.",
+    "wordCount": 178,
+    "difficulty": "IELTS 6.5"
+  },
+  {
+    "id": task1-016,
+    "type": "task1",
+    "title": "Mobile Phone Users Growth",
+    "topic": "Line graph",
+    "prompt": "The line graph shows the number of mobile phone users in Asia, Europe, and Africa from 2000 to 2020.",
+    "content": "The line graph tracks mobile phone adoption across three continents over two decades. In 2000, Europe led with 200 million users, while Asia had 150 million and Africa only 50 million. By 2010, Asia surged to 1.2 billion users, overtaking Europe's 800 million. Africa reached 400 million during this period. By 2020, Asia's users exceeded 2 billion, Europe stabilized at 900 million, and Africa grew to 900 million. The most significant growth occurred in Asia between 2000-2010, while Africa showed the fastest percentage increase overall. All regions experienced steady growth, but Asia maintained the largest user base throughout the period. The data highlights how mobile technology spread rapidly in developing regions after initial slower adoption.",
+    "wordCount": 183,
+    "difficulty": "IELTS 6.5"
+  },
+  {
+    "id": "task2-015",
+    "type": "task2",
+    "title": "Early Childhood Education",
+    "topic": "Education",
+    "prompt": "Some people believe formal schooling should start before age six. Discuss both views and give your opinion.",
+    "content": "The appropriate age for starting formal education has been widely debated. Proponents argue that early schooling helps children develop social skills and foundational knowledge. They claim structured environments prepare kids for future academic challenges and reduce learning gaps between different socioeconomic groups. For example, many European countries begin formal education at age four with positive outcomes in literacy rates. However, opponents believe young children need more play-based learning. They argue that forcing academic work too early may cause stress and reduce creativity. Countries like Finland delay formal lessons until age seven, focusing instead on social development through play. In my view, a balanced approach works best. While basic numeracy and literacy can be introduced gently, excessive academic pressure should be avoided. Schools should prioritize emotional development alongside cognitive skills during early years. The key is flexibility - adapting to each child's readiness rather than enforcing rigid age limits. This ensures children build confidence without unnecessary stress.",
+    "wordCount": 287,
+    "difficulty": "IELTS 6.5"
+  },
+  {
+    "id": "task2-016",
+    "type": "task2",
+    "title": "Technology and Social Interaction",
+    "topic": "Technology",
+    "prompt": "Technology has made communication easier but reduced face-to-face interaction. To what extent do you agree?",
+    "content": "Modern technology has undoubtedly transformed how we communicate, though its impact on personal interaction remains controversial. On one hand, digital platforms allow instant connection across distances. Video calls help families stay in touch, and messaging apps enable quick work coordination. During the pandemic, these tools proved essential for maintaining relationships. However, excessive screen time often replaces physical meetings. Many people now prefer texting over conversations, leading to weaker social bonds. Public spaces show increasing numbers of individuals absorbed in devices rather than interacting with others. I believe technology serves as both solution and problem. While it bridges geographical gaps, it encourages superficial connections. The decline in face-to-face interaction particularly affects young people's social skill development. Schools report students struggling with basic conversation etiquette due to digital dependency. Nevertheless, the issue lies not with technology itself but how we use it. Setting boundaries - like device-free meals or social hours - can preserve meaningful interactions. Ultimately, maintaining balance between digital convenience and real-world connection is crucial for healthy social development in our increasingly online world.",
+    "wordCount": 294,
+    "difficulty": "IELTS 6.5"
+  }
+{
+    "id": task1-017,
+    "type": "task1",
+    "title": "Urban Transport Changes",
+    "topic": "Bar chart",
+    "prompt": "The bar chart shows the percentage of commuters using different transport modes in a city between 2000 and 2020.",
+    "content": "The bar chart illustrates changes in commuting preferences across five transport methods over a 20-year period. Overall, private car usage remained dominant but declined gradually, while cycling and walking saw significant growth. In 2000, cars accounted for 45% of commutes, followed by buses at 30%. By 2020, car use dropped to 35%, while buses remained stable at 28%. Cycling showed the most dramatic increase, rising from 5% to 20%, and walking grew from 10% to 15%. Train usage maintained a steady 10% throughout the period. The data indicates a clear shift toward more sustainable transport options, particularly cycling, which tripled in popularity. This trend likely reflects improved infrastructure and growing environmental awareness among residents.",
+    "wordCount": 178,
+    "difficulty": "IELTS 6.5"
+  },
+  {
+    "id": task1-018,
+    "type": "task1",
+    "title": "Energy Consumption",
+    "topic": "Pie chart",
+    "prompt": "The pie charts compare energy sources used in three countries in 2023.",
+    "content": "The pie charts display energy consumption patterns across fossil fuels, nuclear, and renewables in Country A, B, and C. Country A relies heavily on fossil fuels (75%), with minimal renewable use (10%). Country B shows a more balanced distribution: fossil fuels 50%, nuclear 30%, and renewables 20%. Country C stands out with renewables accounting for 60% of its energy mix, while fossil fuels make up only 25%. Nuclear energy represents 15% in Country C but is absent in Country A. These differences highlight varying national priorities, with Country C demonstrating the strongest commitment to sustainable energy. The data suggests economic development levels and government policies significantly influence energy choices across nations.",
+    "wordCount": 165,
+    "difficulty": "IELTS 6.5"
+  },
+  {
+    "id": "task2-017",
+    "type": "task2",
+    "title": "Early Childhood Education",
+    "topic": "Education",
+    "prompt": "Some believe formal education should start before age five, while others think children should play more. Discuss both views and give your opinion.",
+    "content": "The appropriate age for starting formal education has been widely debated. Proponents of early schooling argue that structured learning before age five helps children develop cognitive skills faster. They believe early exposure to reading and math creates academic advantages that last through school years. Additionally, preschools teach social skills like sharing and following instructions, preparing children for primary school environments. However, opponents emphasize the importance of unstructured play for young children. They argue that excessive academic pressure can cause stress and reduce creativity. Play-based learning allows natural development of motor skills and imagination, which are equally important foundations. In my view, a balanced approach works best. While basic socialization through kindergarten is beneficial, formal academic instruction should wait until children show readiness. Schools could offer flexible programs where children learn through games rather than worksheets. This respects developmental differences while ensuring no child falls behind. Ultimately, education should adapt to children's needs rather than forcing them to fit rigid systems.",
+    "wordCount": 287,
+    "difficulty": "IELTS 6.5"
+  },
+  {
+    "id": "task2-018",
+    "type": "task2",
+    "title": "Social Media Impact",
+    "topic": "Technology",
+    "prompt": "Social media has changed how people interact. Do the advantages outweigh the disadvantages?",
+    "content": "Social networking platforms have fundamentally transformed communication patterns worldwide. While concerns about mental health and privacy are valid, I believe the benefits of social media generally surpass its drawbacks. One major advantage is how these platforms connect people across distances. Families separated by migration can maintain close relationships through video calls and instant messaging. Professionals use LinkedIn to find job opportunities and build networks that would be impossible through traditional methods. Educational content on platforms like YouTube makes learning accessible to millions who lack local resources. However, problems like cyberbullying and misinformation cannot be ignored. Young users especially may experience anxiety from constant comparison with idealized online personas. Despite these issues, solutions exist through digital literacy education and platform regulations. For instance, many schools now teach students to verify information before sharing. Governments are also implementing laws requiring transparency in algorithmic content selection. In conclusion, while social media presents challenges, its power to connect, educate, and empower communities makes it a net positive force when used responsibly. The key lies in developing smarter usage habits rather than rejecting the technology altogether.",
+    "wordCount": 293,
+    "difficulty": "IELTS 6.5"
+  }
+{
+    "id": task1-019,
+    "type": "task1",
+    "title": "Energy Consumption Trends",
+    "topic": "Bar chart",
+    "prompt": "The bar chart below shows the percentage of energy consumption from different sources in Country X between 2010 and 2020.",
+    "content": "The bar chart illustrates changes in energy consumption sources in Country X over a decade. Overall, fossil fuels remained dominant but showed a decline, while renewable energy saw significant growth. In 2010, coal accounted for 45% of energy use, followed by oil at 30% and natural gas at 20%. Renewables made up only 5%. By 2020, coal decreased to 30%, oil to 20%, and natural gas remained stable at 20%. Renewable energy tripled to 15%, with solar and wind contributing most. Nuclear energy stayed constant at 15% throughout the period. The data indicates a gradual shift toward cleaner energy sources, though fossil fuels still represented over half of total consumption in 2020.",
+    "wordCount": 178,
+    "difficulty": "IELTS 6.5"
+  },
+  {
+    "id": task1-020,
+    "type": "task1",
+    "title": "Global Internet Usage by Region",
+    "topic": "Pie chart",
+    "prompt": "The pie charts illustrate the distribution of internet users across different regions in 2015 and 2020.",
+    "content": "The pie charts compare internet user distribution across regions in 2015 and 2020. In 2015, Asia accounted for 45% of global users, followed by Europe at 25% and North America at 15%. Africa, Latin America, and other regions shared the remaining 15%. By 2020, Asia's share increased to 55%, while Europe decreased to 20%. Africa showed the most significant growth, rising from 5% to 12%. North America dropped slightly to 13%, and Latin America remained stable at 8%. The data demonstrates Asia's growing dominance in internet usage, with Africa showing the fastest expansion. This trend likely reflects improved infrastructure and increased smartphone adoption in developing regions.",
+    "wordCount": 182,
+    "difficulty": "IELTS 6.5"
+  },
+  {
+    "id": "task2-019",
+    "type": "task2",
+    "title": "Early Formal Education",
+    "topic": "Education",
+    "prompt": "Some people think children should begin formal education at a very early age. Discuss both views and give your opinion.",
+    "content": "There is ongoing debate about whether formal education should start at a very young age. Some argue that early learning helps children develop cognitive skills faster, giving them an academic advantage later in life. They believe structured activities can improve concentration and social skills through interaction with peers. However, others worry that pushing children too early may cause stress and reduce their natural curiosity. Young children might feel pressured to perform, potentially harming their emotional development. In my view, while early exposure to learning is beneficial, it should be balanced with play-based activities. Formal education at age three or four could include basic literacy and numeracy through games, but excessive academic focus should be avoided. Schools should prioritize creating a positive learning environment rather than strict academic targets. This approach allows children to develop foundational skills without losing their childhood joy. Ultimately, a flexible system that adapts to individual needs would be most effective.",
+    "wordCount": 287,
+    "difficulty": "IELTS 6.5"
+  },
+  {
+    "id": "task2-020",
+    "type": "task2",
+    "title": "Impact of Social Media on Society",
+    "topic": "Technology",
+    "prompt": "Social media has become an integral part of daily life. Discuss its positive and negative effects on individuals and society.",
+    "content": "Social media platforms have transformed how people communicate and share information. On the positive side, they enable instant global communication, helping maintain relationships across distances. Businesses benefit from cost-effective marketing and direct customer engagement. Social media also raises awareness about important issues, as seen in recent environmental and social justice movements. However, there are significant drawbacks. Excessive use can lead to reduced face-to-face interaction and feelings of loneliness. The spread of misinformation is another serious concern, with false news spreading faster than factual content. Additionally, constant comparison with others' curated lives may damage self-esteem, particularly among young users. From a societal perspective, while social media connects people, it can also create echo chambers that reinforce existing beliefs. Governments and platforms should work together to promote digital literacy and responsible usage. In conclusion, social media offers valuable benefits but requires mindful usage to minimize its negative impacts on both individuals and communities.",
+    "wordCount": 298,
+    "difficulty": "IELTS 6.5"
+  }
+{
+    "id": task1-021,
+    "type": "task1",
+    "title": "Global Energy Consumption",
+    "topic": "Bar chart",
+    "prompt": "The bar chart below shows the energy consumption (in million tons) of coal, oil, and natural gas in China, the USA, and India in 2020.",
+    "content": "The bar chart illustrates energy consumption across three major sources in three countries during 2020. Overall, coal remained the dominant energy source in China and India, while the USA relied more heavily on oil and natural gas. In China, coal consumption reached approximately 1,800 million tons, significantly higher than oil at 700 million tons and natural gas at 300 million tons. Similarly, India consumed about 500 million tons of coal, compared to 250 million tons of oil and 100 million tons of natural gas. Conversely, the USA showed a more balanced pattern, with oil consumption at 900 million tons, natural gas at 850 million tons, and coal at 400 million tons. Notably, the USA's natural gas usage was nearly double that of China and eight times higher than India's. These figures highlight distinct national energy preferences, with Asian countries favoring coal while the USA diversified its sources.",
+    "wordCount": 178,
+    "difficulty": "IELTS 6.5"
+  },
+  {
+    "id": task1-022,
+    "type": "task1",
+    "title": "Urban Transportation Methods",
+    "topic": "Pie chart",
+    "prompt": "The pie chart shows the percentage of commuters using different transportation methods in a major city in 2025.",
+    "content": "The pie chart presents commuters' transportation choices in a large city during 2025. Public transport accounted for the largest share at 45%, comprising buses (25%) and trains (20%). Private vehicles represented 30% of commuters, with cars making up 25% and motorcycles 5%. Cycling and walking together constituted 20%, with cycling at 12% and walking at 8%. The remaining 5% used ride-sharing services. An overview reveals that collective transportation modes dominated daily commutes, particularly buses and trains. Interestingly, active transport methods like cycling showed higher usage than motorcycles and ride-sharing combined. This distribution suggests effective public infrastructure and growing environmental awareness among residents, though private car usage remains significant.",
+    "wordCount": 163,
+    "difficulty": "IELTS 6.5"
+  },
+  {
+    "id": "task2-021",
+    "type": "task2",
+    "title": "Early Childhood Education",
+    "topic": "Education",
+    "prompt": "Some people believe formal education should start before age five, while others think children should play more during early years. Discuss both views and give your opinion.",
+    "content": "The appropriate age for starting formal education has sparked considerable debate. Proponents of early schooling argue that structured learning enhances cognitive development and prepares children for academic success. They claim that introducing basic literacy and numeracy skills before age five builds strong foundations, particularly for disadvantaged children who may lack educational resources at home. Research shows early exposure to structured environments can improve concentration and social skills. However, opponents emphasize the importance of unstructured play in early childhood. They argue that excessive academic pressure may cause stress and reduce creativity. Play-based learning allows children to develop problem-solving abilities and emotional intelligence naturally through exploration. For instance, building blocks teach spatial awareness better than worksheets. In my view, a balanced approach works best. While formal instruction shouldn't dominate preschool years, introducing basic concepts through play can be beneficial. Schools should focus on interactive activities rather than tests, ensuring children enjoy learning without pressure. This middle ground supports development while maintaining childhood joy.",
+    "wordCount": 287,
+    "difficulty": "IELTS 6.5"
+  },
+  {
+    "id": "task2-022",
+    "type": "task2",
+    "title": "Technology and Social Interaction",
+    "topic": "Technology",
+    "prompt": "Technology has made communication easier but reduced face-to-face interaction. To what extent do you agree or disagree?",
+    "content": "While digital communication tools have undoubtedly simplified connecting with others, I believe they have significantly diminished meaningful in-person interactions. Technology provides undeniable convenience through instant messaging and video calls, allowing people to maintain relationships across distances. For example, families separated by migration can now share daily moments through social media. Businesses also benefit from efficient virtual meetings that save time and resources. However, these advantages come at a social cost. Many people now prefer texting over conversations, leading to weaker emotional connections. A 2025 study found that 65% of young adults feel less comfortable with face-to-face discussions after prolonged digital communication use. Public spaces increasingly show individuals absorbed in devices rather than engaging with those around them. Moreover, non-verbal cues essential for deep understanding are lost in digital exchanges. While technology solves geographical barriers, it creates emotional distance in immediate relationships. I suggest setting boundaries like device-free meals to preserve interpersonal skills. Schools should also teach digital etiquette emphasizing when to choose direct conversation. Ultimately, technology should supplement rather than replace physical interaction to maintain healthy social development. The key is mindful usage balancing digital convenience with human connection needs.",
+    "wordCount": 298,
+    "difficulty": "IELTS 6.5"
+  }
+{
+    "id": task1-023,
+    "type": "task1",
+    "title": "Energy Consumption Comparison",
+    "topic": "Bar chart",
+    "prompt": "The bar chart below shows the percentage of energy consumption from renewable sources in four countries in 2020.",
+    "content": "The bar chart illustrates the proportion of renewable energy usage across Germany, China, Brazil, and the USA during 2020. Overall, Brazil had the highest reliance on renewable sources, while the USA showed the lowest percentage. Germany and China demonstrated moderate levels of renewable energy adoption.
+
+Specifically, Brazil's renewable energy consumption reached approximately 45%, significantly higher than other nations. Germany followed with 28%, showing steady progress in sustainable energy. China recorded 22%, reflecting ongoing efforts despite its large industrial base. In contrast, the USA utilized only 12% renewable sources, indicating slower transition compared to peers. These figures highlight varying commitments to green energy policies among major economies.",
+    "wordCount": 178,
+    "difficulty": "IELTS 6.5"
+  },
+  {
+    "id": task1-024,
+    "type": "task1",
+    "title": "Transportation Methods",
+    "topic": "Pie chart",
+    "prompt": "The pie chart shows how residents in a European city traveled to work in 2023.",
+    "content": "The pie chart presents the distribution of commuting methods used by city dwellers in a European urban area during 2023. Public transportation accounted for the largest share at 48%, while private vehicles represented 32% of all commutes. Cycling and walking together made up the remaining 20%.
+
+More precisely, buses and trains were the most popular choice, used by nearly half the population. Car usage remained significant but considerably lower than public transit options. Active transportation methods showed promising adoption, with cycling at 12% and walking at 8%. This pattern suggests effective urban planning that encourages sustainable mobility solutions and reduces traffic congestion in the city center.",
+    "wordCount": 163,
+    "difficulty": "IELTS 6.5"
+  },
+  {
+    "id": "task2-023",
+    "type": "task2",
+    "title": "Early Education Debate",
+    "topic": "Education",
+    "prompt": "Some people believe children should start formal schooling at age three. Others argue this is too early. Discuss both views and give your opinion.",
+    "content": "The appropriate age for starting formal education has become a topic of debate among parents and educators. While some advocate for early academic instruction, others believe children need more time for play-based learning before structured schooling begins.
+
+Supporters of early education claim that starting school at age three helps children develop essential social skills and cognitive abilities during their most formative years. They argue that structured environments provide valuable routines and early exposure to language development. However, opponents maintain that young children require unstructured playtime to foster creativity and emotional growth. They worry that premature academic pressure might lead to stress and reduced motivation later in life.
+
+In my view, a balanced approach works best. While early social interaction is beneficial, formal academic instruction should wait until children show readiness. Play-based preschool programs that focus on social development without heavy academic demands seem ideal for three-year-olds. This middle ground allows children to enjoy childhood while gradually preparing for future learning challenges. Educational institutions should prioritize flexibility to accommodate different developmental paces among young learners.",
+    "wordCount": 287,
+    "difficulty": "IELTS 6.5"
+  },
+  {
+    "id": "task2-024",
+    "type": "task2",
+    "title": "Technology and Social Interaction",
+    "topic": "Technology",
+    "prompt": "Technology has changed how people interact with each other. Do the advantages outweigh the disadvantages?",
+    "content": "The impact of technology on human interaction represents one of the most significant social changes in recent history. While digital communication offers unprecedented connectivity, it also presents challenges to traditional social dynamics that require careful consideration.
+
+On the positive side, technology enables instant communication across vast distances, helping maintain relationships that would otherwise fade. Video calls, messaging apps, and social media platforms allow people to share experiences in real-time regardless of physical location. These tools have proven especially valuable during global events that limit face-to-face interaction. Additionally, online communities provide support networks for individuals with specific interests or challenges.
+
+However, excessive screen time can reduce the quality of in-person interactions. Many people report feeling distracted during conversations due to constant notifications. The lack of non-verbal cues in digital communication sometimes leads to misunderstandings. Furthermore, younger generations may struggle with basic social skills developed through traditional face-to-face interaction.
+
+Considering both perspectives, I believe technology's benefits outweigh its drawbacks when used mindfully. The key lies in finding balance - leveraging digital tools for convenience while preserving meaningful offline connections. Families and schools should promote healthy technology habits that enhance rather than replace authentic human interaction. Society must adapt to these changes without losing the fundamental value of personal connection.",
+    "wordCount": 294,
+    "difficulty": "IELTS 6.5"
+  }
+{
+    "id": task1-025,
+    "type": "task1",
+    "title": "Global Energy Consumption Trends",
+    "topic": "Bar chart",
+    "prompt": "The bar chart below shows global energy consumption from different sources in 2000 and 2020. Summarize the information by selecting and reporting the main features.",
+    "content": "The bar chart illustrates changes in global energy consumption across five sources between 2000 and 2020. Overall, fossil fuels remained dominant but renewable energy showed significant growth. In 2000, coal accounted for approximately 30% of total consumption, followed closely by oil at 28%. Natural gas contributed 23%, while nuclear and renewables each represented around 10% and 7% respectively. By 2020, oil consumption had increased slightly to 31%, becoming the largest energy source. Coal decreased to 25%, and natural gas rose to 27%. Renewables experienced the most dramatic change, doubling to 14%, whereas nuclear energy remained stable at 10%. The data indicates a gradual shift towards cleaner energy sources over the two decades, though fossil fuels still constituted over 80% of total energy use in 2020.",
+    "wordCount": 178,
+    "difficulty": "IELTS 6.5"
+  },
+  {
+    "id": task1-026,
+    "type": "task1",
+    "title": "Urban Population Growth",
+    "topic": "Line graph",
+    "prompt": "The line graph compares urban population percentages in developed and developing regions from 1950 to 2020. Highlight key trends and make comparisons where relevant.",
+    "content": "The line graph demonstrates urban population trends in developed and developing regions over a 70-year period. Initially in 1950, 55% of people in developed regions lived in cities, compared to only 20% in developing regions. Both regions showed steady growth, but developing regions experienced more rapid urbanization. By 2000, the urban population in developing regions had reached 45%, closing the gap with developed regions at 75%. The most significant change occurred after 2000, when developing regions surpassed 50% urbanization and continued rising to 60% by 2020. Developed regions maintained a slower but consistent increase, reaching 80% in the same year. The data reveals that while urbanization started earlier in developed regions, developing regions caught up significantly in the 21st century, reducing the urbanization gap from 35 percentage points to 20.",
+    "wordCount": 182,
+    "difficulty": "IELTS 6.5"
+  },
+  {
+    "id": "task2-025",
+    "type": "task2",
+    "title": "Early Childhood Education",
+    "topic": "Education",
+    "prompt": "Some people believe formal education should start before age five, while others think children should play more during early years. Discuss both views and give your opinion.",
+    "content": "The appropriate age for starting formal education has been widely debated. Supporters of early formal learning argue that young children's brains are highly receptive, making it an ideal time to develop foundational skills. Structured activities can improve concentration and prepare children for school routines, potentially reducing learning difficulties later. Additionally, early education programs often provide social interaction opportunities that might not exist at home. On the other hand, advocates for play-based learning emphasize that unstructured play is crucial for creativity and emotional development. They believe academic pressure at a young age may cause stress and reduce natural curiosity. Play allows children to develop problem-solving skills through experimentation in a low-pressure environment. In my view, a balanced approach works best. While formal instruction shouldn't dominate early childhood, introducing basic concepts through playful activities can be beneficial. For example, counting games or storytelling combine learning with enjoyment. The key is maintaining flexibility and avoiding rigid academic expectations that could harm children's natural development. Both structured and unstructured activities have value when appropriately integrated.",
+    "wordCount": 287,
+    "difficulty": "IELTS 6.5"
+  },
+  {
+    "id": "task2-026",
+    "type": "task2",
+    "title": "Technology and Social Interaction",
+    "topic": "Technology",
+    "prompt": "Advances in technology have changed how people interact socially. Do the advantages outweigh the disadvantages?",
+    "content": "Technological developments have significantly transformed social interactions, creating both opportunities and challenges. One major advantage is the ability to maintain connections across distances. Video calls and messaging apps allow people to communicate instantly with friends and family worldwide, strengthening relationships that might otherwise weaken. Social media platforms also help individuals find communities with shared interests, providing support networks for niche hobbies or personal challenges. However, these benefits come with notable drawbacks. Face-to-face communication skills are declining as people become accustomed to digital interactions. Many struggle with reading social cues or maintaining eye contact during in-person conversations. Furthermore, constant connectivity can lead to social comparison and anxiety, particularly among young people who feel pressured to present perfect lives online. While technology enhances accessibility, it risks making interactions more superficial. In my opinion, the advantages do not clearly outweigh the disadvantages. The convenience of digital communication is valuable, but it should complement rather than replace physical interactions. Setting boundaries for technology use, such as designated screen-free times, can help maintain healthy social habits. Ultimately, finding balance between digital and real-world interactions is essential for meaningful relationships in the modern era.",
+    "wordCount": 298,
+    "difficulty": "IELTS 6.5"
+  }
+{
+    "id": task1-027,
+    "type": "task1",
+    "title": "Mobile Usage Comparison",
+    "topic": "Bar chart",
+    "prompt": "The bar chart below shows the percentage of mobile phone users by age group in two countries in 2025.",
+    "content": "The bar chart illustrates mobile phone usage across five age groups in Country A and Country B during 2025. Overall, younger demographics showed higher adoption rates in both nations, though Country A maintained consistently higher usage percentages.
+
+In Country A, over 90% of 18-24 year olds used mobile phones, decreasing gradually to 65% among those aged 65+. Country B followed a similar pattern but with lower figures, starting at 80% for the youngest group and dropping to 45% for seniors. The most significant difference appeared in the 45-54 age bracket where Country A (78%) outpaced Country B (58%) by 20 percentage points.
+
+Both countries demonstrated peak usage among 18-34 year olds, with minimal variation between adjacent age groups. The data reveals a clear inverse relationship between age and mobile adoption in both nations, with Country A showing stronger penetration across all demographics.",
+    "wordCount": 178,
+    "difficulty": "IELTS 6.5"
+  },
+  {
+    "id": task1-028,
+    "type": "task1",
+    "title": "Tourism Trends",
+    "topic": "Line graph",
+    "prompt": "The line graph shows international tourist arrivals in three regions from 2010 to 2025.",
+    "content": "The line graph presents tourism figures for Asia, Europe, and Africa between 2010 and 2025. Generally, all regions experienced growth, with Europe maintaining the highest visitor numbers throughout the period.
+
+European destinations welcomed approximately 500 million tourists in 2010, rising steadily to 750 million by 2025. Asia started lower at 300 million but showed the strongest growth trajectory, reaching 650 million visitors in the final year. African tourism began at just 100 million but doubled by 2020 before accelerating to 300 million in 2025.
+
+While Europe consistently led in absolute numbers, Asia demonstrated the most significant proportional increase. The gap between Europe and Asia narrowed considerably after 2020, whereas Africa maintained the lowest visitor count despite its rapid growth rate. All three regions showed uninterrupted upward trends without seasonal fluctuations.",
+    "wordCount": 182,
+    "difficulty": "IELTS 6.5"
+  },
+  {
+    "id": "task2-027",
+    "type": "task2",
+    "title": "Early Education Debate",
+    "topic": "Education",
+    "prompt": "Some people believe children should start formal schooling at age three. Others think this is too early. Discuss both views and give your opinion.",
+    "content": "The appropriate starting age for formal education has generated considerable debate. While some advocate for early academic instruction, others prefer delaying structured learning until children are older. This essay will examine both perspectives before presenting my viewpoint.
+
+Proponents of early schooling argue that young children possess remarkable cognitive flexibility. Starting education at age three allows them to develop foundational skills during their most receptive developmental stage. Early exposure to social environments helps children adapt to routines and interact with peers, potentially improving their future academic performance. Many preschool programs successfully combine play with learning, making education enjoyable from the beginning.
+
+Conversely, critics contend that formal education at such a young age may create unnecessary pressure. They believe children need more time for unstructured play, which fosters creativity and emotional development. Pushing academic work too early could lead to burnout or negative attitudes toward learning. Countries like Finland, where formal schooling starts at seven, demonstrate excellent educational outcomes through this approach.
+
+In my view, a balanced approach works best. While structured academic instruction might be premature at three, high-quality early childhood programs focusing on social skills and play-based learning provide significant benefits. The key is maintaining appropriate expectations that match children's developmental stages rather than rushing formal academics. Schools should prioritize creating positive learning experiences over early academic achievement.",
+    "wordCount": 287,
+    "difficulty": "IELTS 6.5"
+  },
+  {
+    "id": "task2-028",
+    "type": "task2",
+    "title": "Social Media Impact",
+    "topic": "Technology",
+    "prompt": "Social media has transformed how people communicate. Do the advantages outweigh the disadvantages?",
+    "content": "Social networking platforms have fundamentally changed communication patterns worldwide. While these services offer significant benefits in connectivity and information sharing, they also present serious challenges that require careful consideration. This essay will analyze both aspects before reaching a conclusion.
+
+The primary advantage of social media lies in its ability to connect people across geographical boundaries. Families separated by distance can maintain regular contact through video calls and instant messaging. Professional networks like LinkedIn help job seekers connect with employers globally. Educational content spreads rapidly through platforms like YouTube, making knowledge more accessible than ever before. During emergencies, social media enables rapid information dissemination that traditional channels cannot match.
+
+However, these benefits come with notable drawbacks. Excessive social media use correlates with increased anxiety and depression, particularly among teenagers. The spread of misinformation has become a serious societal problem, with false news traveling faster than verified facts. Privacy concerns continue to grow as platforms collect extensive user data. Many people report feeling pressured to present idealized versions of their lives, leading to unrealistic comparisons and decreased self-esteem.
+
+Despite these issues, I believe the advantages can outweigh the disadvantages when users approach social media mindfully. Setting time limits, verifying information before sharing, and maintaining offline relationships can mitigate many negative effects. Platforms themselves are increasingly implementing features to promote healthier usage patterns. Ultimately, social media serves as a powerful tool whose impact depends largely on how individuals and societies choose to use it.",
+    "wordCount": 293,
+    "difficulty": "IELTS 6.5"
+  }
+{
+    "id": task1-029,
+    "type": "task1",
+    "title": "Population Growth Comparison",
+    "topic": "Bar chart",
+    "prompt": "The bar chart below shows the population growth rates of five countries from 2000 to 2020. Summarize the information by selecting and reporting the main features.",
+    "content": "The bar chart illustrates population growth rates in five countries between 2000 and 2020. Overall, India showed the highest growth rate while Japan experienced a decline. In 2000, India's growth rate was approximately 1.6%, significantly higher than China's 0.8% and the United States' 0.7%. Brazil and Japan recorded 1.2% and 0.2% respectively. By 2020, India maintained the highest rate at 1.1%, though this represented a decrease from earlier levels. China and the US saw moderate reductions to 0.5% and 0.4%. Brazil's rate dropped more sharply to 0.6%, while Japan's growth turned negative at -0.1%. Notably, all countries except Japan showed positive growth throughout the period, with India consistently leading in population increase. The data indicates a general slowing of population growth across these nations over the two decades.",
+    "wordCount": 178,
+    "difficulty": "IELTS 6.5"
+  },
+  {
+    "id": task1-030,
+    "type": "task1",
+    "title": "Energy Consumption Trends",
+    "topic": "Line graph",
+    "prompt": "The line graph compares energy consumption from different sources in a European country from 1990 to 2020. Highlight key trends and make comparisons.",
+    "content": "The line graph displays energy consumption patterns from various sources in a European nation over thirty years. Coal usage started at 35 million tons in 1990 but gradually decreased to 20 million tons by 2020. Natural gas showed an opposite trend, rising steadily from 20 to 30 million tons. Renewable energy sources began at just 5 million tons but experienced significant growth, reaching 25 million tons in 2020. Nuclear energy remained relatively stable between 15 and 20 million tons throughout the period. An important observation is that renewable energy surpassed coal consumption around 2010. While fossil fuels dominated initially, by 2020 renewables and natural gas together accounted for more than 50% of total energy consumption. The data demonstrates a clear shift toward cleaner energy sources over the three decades.",
+    "wordCount": 182,
+    "difficulty": "IELTS 6.5"
+  },
+  {
+    "id": "task2-029",
+    "type": "task2",
+    "title": "Technology in Education",
+    "topic": "Technology",
+    "prompt": "Some people believe technology has made education more accessible. Others argue it creates new barriers. Discuss both views and give your opinion.",
+    "content": "Technology has undoubtedly transformed education, though opinions differ on whether it has improved accessibility. Supporters argue that online platforms provide learning opportunities to people in remote areas. For example, students in rural communities can now access university courses through video lectures. Digital textbooks are often cheaper than printed versions, making education more affordable. Additionally, interactive apps help learners study at their own pace, which benefits those with special needs. However, critics point out that technology creates new challenges. Not everyone has reliable internet or suitable devices, particularly in developing countries. Older teachers may struggle to adapt to new tools, reducing teaching effectiveness. There's also the issue of distraction, as students might use educational devices for non-study purposes. In my view, while technology offers significant advantages, its benefits are not equally distributed. Governments should invest in infrastructure to ensure all students can benefit. Schools need to provide proper training for teachers and establish clear guidelines for technology use. With careful implementation, technology can truly make education more inclusive rather than creating additional barriers for disadvantaged groups. The key is addressing the digital divide while maximizing educational potential.",
+    "wordCount": 287,
+    "difficulty": "IELTS 6.5"
+  },
+  {
+    "id": "task2-039",
+    "type": "task2",
+    "title": "Environmental Protection Responsibility",
+    "topic": "Environment",
+    "prompt": "Some think environmental protection is the government's responsibility. Others believe individuals should take action. Discuss both sides and give your opinion.",
+    "content": "The question of who should bear primary responsibility for environmental protection generates different perspectives. Those favoring government action argue that only authorities have the power to implement large-scale changes. National policies can regulate industrial emissions, establish protected areas, and fund renewable energy projects. International agreements between governments are essential for tackling global issues like climate change. Furthermore, governments can educate citizens about environmental issues through public campaigns. On the other hand, many believe individual actions collectively make a significant difference. Simple habits like recycling, reducing plastic use, and conserving energy contribute to sustainability. Consumer choices influence businesses to adopt eco-friendly practices. When enough people demand change, companies respond by developing greener products. In my opinion, both approaches are necessary but governments must lead the way. While individual efforts are valuable, they cannot replace systemic changes that only authorities can enforce. For instance, no matter how many people recycle, without proper waste management systems, the impact remains limited. However, citizen participation creates social pressure that encourages governments to act. The most effective strategy combines strong environmental policies with active public involvement. Each person's contribution matters, but structural changes through government action create the framework for meaningful environmental progress.",
+    "wordCount": 295,
+    "difficulty": "IELTS 6.5"
   }
 ]
